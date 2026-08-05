@@ -31,12 +31,3 @@
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square" />
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="36" height="36"/></a>
 </p>
-
-### GitHub Stats
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ursaminor3&show_icons=true&locale=en&layout=compact" alt="ursaminor3's top languages" />
-</p>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ursaminor3&show_icons=true&locale=en" alt="ursaminor3's github stats" />
-</p>
